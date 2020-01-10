@@ -1,4 +1,4 @@
-# Simcoe County Reverse Proxy
+# Simcoe County Sample NodeJs Hosting Container
 
 Sample node container to run your react websites. When I need to run a new website, I make of a copy of this and change the port to whatever you like.
 
